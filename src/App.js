@@ -31,7 +31,7 @@ setYear('')
       <header className="App-header">
         <div className="container">
 <div className='head'>
-  <h1>Simple Intrest Calculator</h1>
+  <h1>Simple Interest Calculator</h1>
 <p>The Simple Interest Calculator calculates the interest and end balance based on the simple interest formula. Click the tabs to calculate the different parameters of the simple interest formula. In real life, most interest calculations involve compound Interest</p>
 </div>
 <div className='card'>
